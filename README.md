@@ -2,4 +2,5 @@
 
 ## Autor
 
-Jonathan Chavez
+* Jonathan Chavez
+* Juan Chavez
